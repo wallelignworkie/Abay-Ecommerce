@@ -3,8 +3,7 @@
 A Laravel-based e-commerce demo application with a Blade frontend. Built to demonstrate common e‑commerce features (product catalog, cart, orders) and to showcase project structure and development setup.
 
 ## My role / impact
-- Developed the application using Laravel and Blade, implemented core product and order flows, and set up database seeding and developer-friendly run scripts.
-- (Replace this with a 1–2 sentence summary of your role and impact if you prefer.)
+I work as a full‑stack developer and manage the entire project myself — design, development, testing, deployment, and maintenance. This personal project demonstrates end‑to‑end e‑commerce features and showcases my full‑stack capabilities and decision‑making.
 
 ## Tech stack
 - Backend: PHP (Laravel)
