@@ -11,6 +11,10 @@ I work as a full‑stack developer and manage the entire project myself — desi
 - Database: MySQL
 - Dev tools: Composer, Artisan
 
+## Demo / Video
+Watch the project walkthrough here:
+https://www.youtube.com/watch?v=U7fpeUxHCuY&t=2s
+
 ## Quick start (development)
 1. Clone
    git clone https://github.com/wallelignworkie/Abay-Ecommerce.git
@@ -53,7 +57,3 @@ I work as a full‑stack developer and manage the entire project myself — desi
 1. Fork the repo
 2. Create a branch: docs/add-readme-abay-ecommerce
 3. Make changes, push, and open a PR
-
-## Contact
-- Maintainer: wallelignworkie
-- (Add demo URL or screenshots here if available.)
