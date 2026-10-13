@@ -55,5 +55,5 @@ https://www.youtube.com/watch?v=U7fpeUxHCuY&t=2s
 
 ## Contributing
 1. Fork the repo
-2. Create a branch: docs/add-readme-abay-ecommerce
+2. Create a branch, like feature/add-search-in-product-table
 3. Make changes, push, and open a PR
